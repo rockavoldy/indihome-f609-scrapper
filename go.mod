@@ -1,4 +1,4 @@
-module telkom-ip-finder
+module indihome-f609-scrapper
 
 go 1.17
 
